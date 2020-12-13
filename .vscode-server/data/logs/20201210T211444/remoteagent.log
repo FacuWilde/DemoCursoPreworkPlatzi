@@ -1,0 +1,58 @@
+[2020-12-10 21:14:45.012] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-10 21:14:45.012] [remoteagent] [info] Extension host agent started.
+[2020-12-10 21:14:45.158] [remoteagent] [info] [::ffff:192.168.238.113][d0fc336a][ManagementConnection] New connection established.
+[2020-12-10 21:14:45.159] [remoteagent] [info] [::ffff:192.168.238.113][71395855][ExtensionHostConnection] New connection established.
+[2020-12-10 21:14:45.369] [remoteagent] [info] [::ffff:192.168.238.113][71395855][ExtensionHostConnection] <222> Launched Extension Host Process.
+[2020-12-10 21:26:37.220] [remoteagent] [info] [::ffff:192.168.238.113][eb4737dd][ExtensionHostConnection] New connection established.
+[2020-12-10 21:26:37.221] [remoteagent] [info] [::ffff:192.168.238.113][16df0579][ManagementConnection] New connection established.
+[2020-12-10 21:26:37.226] [remoteagent] [info] [::ffff:192.168.238.113][eb4737dd][ExtensionHostConnection] <296> Launched Extension Host Process.
+[2020-12-10 21:27:09.528] [remoteagent] [info] Installing extension: naumovs.color-highlight
+[2020-12-10 21:27:10.623] [remoteagent] [info] Downloaded extension: naumovs.color-highlight undefined
+[2020-12-10 21:27:10.895] [remoteagent] [info] Extracted extension to /home/fdiazber/.vscode-server/extensions/.naumovs.color-highlight-2.3.0: naumovs.color-highlight
+[2020-12-10 21:27:10.896] [remoteagent] [info] Renamed to /home/fdiazber/.vscode-server/extensions/naumovs.color-highlight-2.3.0
+[2020-12-10 21:27:10.897] [remoteagent] [info] Installation completed. naumovs.color-highlight
+[2020-12-10 21:27:10.916] [remoteagent] [info] Extensions installed successfully: naumovs.color-highlight
+[2020-12-10 21:27:14.671] [remoteagent] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-12-10 21:27:15.589] [remoteagent] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2020-12-10 21:27:15.625] [remoteagent] [info] Extracted extension to /home/fdiazber/.vscode-server/extensions/.dbaeumer.vscode-eslint-2.1.13: dbaeumer.vscode-eslint
+[2020-12-10 21:27:15.625] [remoteagent] [info] Renamed to /home/fdiazber/.vscode-server/extensions/dbaeumer.vscode-eslint-2.1.13
+[2020-12-10 21:27:15.627] [remoteagent] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-12-10 21:27:15.632] [remoteagent] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-12-10 21:27:19.056] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2020-12-10 21:27:20.188] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver undefined
+[2020-12-10 21:27:22.678] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2020-12-10 21:27:23.324] [remoteagent] [info] Extracted extension to /home/fdiazber/.vscode-server/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-12-10 21:27:23.325] [remoteagent] [info] Renamed to /home/fdiazber/.vscode-server/extensions/ritwickdey.liveserver-5.6.1
+[2020-12-10 21:27:23.326] [remoteagent] [info] Installation completed. ritwickdey.liveserver
+[2020-12-10 21:27:23.345] [remoteagent] [info] Extensions installed successfully: ritwickdey.liveserver
+[2020-12-10 21:27:23.890] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense undefined
+[2020-12-10 21:27:24.033] [remoteagent] [info] Extracted extension to /home/fdiazber/.vscode-server/extensions/.christian-kohler.path-intellisense-2.3.0: christian-kohler.path-intellisense
+[2020-12-10 21:27:24.034] [remoteagent] [info] Renamed to /home/fdiazber/.vscode-server/extensions/christian-kohler.path-intellisense-2.3.0
+[2020-12-10 21:27:24.035] [remoteagent] [info] Installation completed. christian-kohler.path-intellisense
+[2020-12-10 21:27:24.043] [remoteagent] [info] Extensions installed successfully: christian-kohler.path-intellisense
+[2020-12-10 21:27:26.801] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2020-12-10 21:27:28.127] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2020-12-10 21:27:28.482] [remoteagent] [info] Extracted extension to /home/fdiazber/.vscode-server/extensions/.esbenp.prettier-vscode-5.8.0: esbenp.prettier-vscode
+[2020-12-10 21:27:28.482] [remoteagent] [info] Renamed to /home/fdiazber/.vscode-server/extensions/esbenp.prettier-vscode-5.8.0
+[2020-12-10 21:27:28.484] [remoteagent] [info] Installation completed. esbenp.prettier-vscode
+[2020-12-10 21:27:28.489] [remoteagent] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-12-10 21:27:29.568] [remoteagent] [info] Installing extension: robbowen.synthwave-vscode
+[2020-12-10 21:27:30.869] [remoteagent] [info] Downloaded extension: robbowen.synthwave-vscode undefined
+[2020-12-10 21:27:30.962] [remoteagent] [info] Extracted extension to /home/fdiazber/.vscode-server/extensions/.robbowen.synthwave-vscode-0.1.8: robbowen.synthwave-vscode
+[2020-12-10 21:27:30.962] [remoteagent] [info] Renamed to /home/fdiazber/.vscode-server/extensions/robbowen.synthwave-vscode-0.1.8
+[2020-12-10 21:27:30.963] [remoteagent] [info] Installation completed. robbowen.synthwave-vscode
+[2020-12-10 21:27:30.970] [remoteagent] [info] Extensions installed successfully: robbowen.synthwave-vscode
+[2020-12-10 22:20:56.760] [remoteagent] [info] [::ffff:192.168.238.113][d7f83e2c][ManagementConnection] New connection established.
+[2020-12-10 22:20:56.764] [remoteagent] [info] [::ffff:192.168.238.113][61369971][ExtensionHostConnection] New connection established.
+[2020-12-10 22:20:56.806] [remoteagent] [info] [::ffff:192.168.238.113][61369971][ExtensionHostConnection] <23011> Launched Extension Host Process.
+[2020-12-11 23:17:47.889] [remoteagent] [info] [::ffff:192.168.238.113][16df0579][ManagementConnection] The client has reconnected.
+[2020-12-11 23:17:48.317] [remoteagent] [info] [::ffff:192.168.238.113][d0fc336a][ManagementConnection] The client has reconnected.

@@ -1,0 +1,26 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/fdiazber/test
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/fdiazber/test/README.md
+> git cat-file -s 0c83cde2ce793a26e49d9a3ef8b180384cdc5a38
+> git check-ignore -v -z --stdin
+> git show --textconv :public/index.html
+> git ls-files --stage -- /home/fdiazber/test/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git rev-parse --git-dir
+Open repository: /home/fdiazber
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
